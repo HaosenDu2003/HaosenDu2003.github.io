@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! This is Qinglin Du's personal homepage! Get to know him quickly~
+Welcome! This is Qinglin Du's personal homepage!
 
 Introduction
 ------
