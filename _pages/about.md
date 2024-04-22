@@ -15,4 +15,4 @@ I'm a third year undergraduate student from [School of Energy and Poweer Enginee
 
 I am very fortunate to be co-advised by [Prof. Zijianzhou](http://energy.hust.edu.cn/info/1100/9508.htm) and [Prof. Yankun Jiang](http://energy.hust.edu.cn/info/1111/3695.htm) from School of Energy and Poweer Engineering, HUST.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here:
