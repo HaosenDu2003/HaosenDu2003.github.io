@@ -21,7 +21,7 @@ repository               : "HaosenDu2003/HaosenDu2003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DQLprofile.png"
   name             : "Qinglin Du"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in The Xu Research Group@HUST "
