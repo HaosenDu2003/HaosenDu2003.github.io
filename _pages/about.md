@@ -20,7 +20,9 @@ You can find his CV here: [Qinglin Du's Curriculum Vitae](../assets/Qinglin Du C
 Interests
 ------
 ● Carbon Capture Utilization and Storage (CCUS)
+
 ● Advanced Materials and Manufacturing
+
 ● Electronic Control of Internal Combustion Engine
 
 Education
