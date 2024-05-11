@@ -27,6 +27,6 @@ Interests
 
 Education
 ------
-● 2024.03 - 2024.07(expected), Online Course, Hanyang University, Korea.
+● 2024.03 - 2024.07, Online Course, Hanyang University, Korea.
 
-● 2021.09 - 2025.06(expected), B.Eng, Huazhong University of Science and Technology, China.
+● 2021.09 - 2025.06, B.Eng, Huazhong University of Science and Technology, China.
