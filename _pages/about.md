@@ -16,3 +16,14 @@ Qinglin is a third year undergraduate student from [School of Energy and Power E
 Qinglin is co-advised by [Prof. Zijian Zhou](http://energy.hust.edu.cn/info/1100/9508.htm) and [Prof. Yankun Jiang](http://energy.hust.edu.cn/info/1111/3695.htm) from School of Energy and Power Engineering, HUST.
 
 You can find his CV here: [Qinglin Du's Curriculum Vitae](../assets/Qinglin Du CV.pdf)
+
+Interests
+------
+● Carbon Capture Utilization and Storage (CCUS)
+● Advanced Materials and Manufacturing
+● Electronic Control of Internal Combustion Engine
+
+Education
+------
+● 2024.03 - 2024.07(expected), Online Course, Hanyang University, Korea.
+● 2021.09 - 2025.06(expected), B.Eng, Huazhong University of Science and Technology, China.
